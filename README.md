@@ -2,7 +2,7 @@
 
 - 🔭 Hoje estou fazendo um curso de Html/CSS;
 - 🌱 Estou cursando Analise e Desenvolvimento de Sistema;
-- 👯 Estou no 1º Periodo;
+- 👯 Estou no 2º Periodo;
 - 🤔 Ainda não estou trabalhando na área, mas pretendo.
 
 <div align="center">
