@@ -2,7 +2,7 @@
 
 - 🔭 Hoje estou fazendo um curso da ONE- Oracle Next Education, junto com a Alura e a ORACLE;
 - 🌱 Estou cursando Analise e Desenvolvimento de Sistema;
-- 👯 Estou no 3º Periodo;
+- 👯 Estou no 5º Periodo;
 - 🤔 Ainda não estou trabalhando na área, mas pretendo.
 
 <div align="center">
